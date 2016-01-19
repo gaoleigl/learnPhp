@@ -1,2 +1,2 @@
 # learnPhp
-* this repo contans some basic and simple php code
+* this repo contains some basic and simple php code
