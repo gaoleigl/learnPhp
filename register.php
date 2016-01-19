@@ -3,7 +3,7 @@ $user = $_GET['registerusername'];
 
 $host = "localhost";
 $username = "root";
-$passwd = "gaolei7087";
+$passwd = "****";
 $db = "qlcoderTest";
 
 $conn = mysql_connect($host, $username, $passwd);

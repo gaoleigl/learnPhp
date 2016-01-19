@@ -40,7 +40,7 @@
  /**2 根据页码取出数据，利用php处理mysql **/
  $host = "localhost";
  $username = "root";
- $password = "gaolei7087";
+ $password = "******";
  $db = "test";
  $pageSize = 10;
  $showPage = 5;
